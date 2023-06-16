@@ -34,7 +34,8 @@ body
 canvas
 {
     border-radius: 10px;
-    background-color: red;
+    border-color: red;
+    margin-top: 160px;
     box-shadow: 7px 7px 7px white;
 }
 p
